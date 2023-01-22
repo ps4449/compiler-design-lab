@@ -42,4 +42,5 @@ int main() {
 			printf(" is not left recursive.\n");
 		index = 3;
 	}  
-} 
+}
+ 
